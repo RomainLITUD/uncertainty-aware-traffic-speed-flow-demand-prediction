@@ -3,7 +3,7 @@
 This is the source code of the uncertainty-aware Network-level traffic speed, flow, and demand prediction model. This model extends the Dynamic Graph Convolution (DGC) module proposed initially by [Li et al. (2021)](https://www.sciencedirect.com/science/article/pii/S0968090X21002011). 
 
 - Visit the DiTTlab demo page below to visualize how the model works and how the predictions are interpreted (may not working before 27-08-2023):
-### [Dittlab Online Demo (click)](http://mirrors-dev.citg.tudelft.nl:8082)
+### [Dittlab Online Demo (click)](https://nltrafficpredictiondemo-ekpqd7e8sdue92ewyttuuw.streamlit.app/)
 - The paper manuscript is still under review.
 
 ## Requirement
